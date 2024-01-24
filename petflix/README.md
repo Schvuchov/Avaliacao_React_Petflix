@@ -1,8 +1,3 @@
-# React + Vite
+Avaliação em React Petflix
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![image](https://github.com/Schvuchov/Avaliacao_React_Petflix/assets/86387013/83bacad2-a454-457f-ae04-4f3f4a2462c1)
