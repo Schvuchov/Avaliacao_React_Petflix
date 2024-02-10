@@ -36,14 +36,14 @@ export const ImgDog2 = styled.img`
 `
 
 export const Name = styled.a`
-    color: #E50914;
+    color: #777b7e;
     text-decoration: none;
     margin-bottom: 10px;
     font-size: 1.4em;
     font-weight: bold;
     &:hover {
-        color: white;
-        font-size: 1.6em;
+        color: #fff;
+        scale: 1.1;
         transition: 0.6;
     }
 `
