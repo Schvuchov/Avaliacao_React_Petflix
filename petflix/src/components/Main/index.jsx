@@ -9,11 +9,11 @@ export function Main() {
             <ContPerfis>
                 <ContDog >
                     <ImgDog1 src={dog1} alt="imagem de dog para perfil1" />
-                    <Name href="https://schvuchov.github.io/Avaliacao_React_Petflix/pagina1">Milton</Name>
+                    <Name href="/Avaliacao_React_Petflix/pagina1">Milton</Name>
                 </ContDog>
                 <ContDog>
                     <ImgDog2 src={dog2} alt="imagem de dog para perfil2" />
-                    <Name href="https://schvuchov.github.io/Avaliacao_React_Petflix/pagina2">Mayara</Name>
+                    <Name href="/Avaliacao_React_Petflix/pagina2">Mayara</Name>
                 </ContDog>
             </ContPerfis>
         </ContainerMain>
