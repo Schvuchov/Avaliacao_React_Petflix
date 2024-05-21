@@ -9,8 +9,8 @@ function App() {
     <Router>
         <Routes>
             <Route path="/Avaliacao_React_Petflix" element={<Home />} />
-            <Route path="https://schvuchov.github.io/Avaliacao_React_Petflix//Avaliacao_React_Petflix/pagina1" element={<Pagina1 />} />
-            <Route path="https://schvuchov.github.io/Avaliacao_React_Petflix//Avaliacao_React_Petflix/pagina2" element={<Pagina2 />} />
+            <Route path="https://schvuchov.github.io/Avaliacao_React_Petflix/Avaliacao_React_Petflix/pagina1" element={<Pagina1 />} />
+            <Route path="https://schvuchov.github.io/Avaliacao_React_Petflix/Avaliacao_React_Petflix/pagina2" element={<Pagina2 />} />
         </Routes>
     </Router>
   )
